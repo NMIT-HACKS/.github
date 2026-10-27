@@ -5,7 +5,7 @@
 <a href="https://www.nmithacks.com/">
   <img src="https://cdn.jsdelivr.net/gh/nmithacks2024/nh26@main/public/assets/navbar%20logo.png" height="110" alt="NMIT Hacks logo" />
 </a>
-
+<br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D90429&center=true&vCenter=true&width=620&lines=Invite.+Innovate.+Build.+Bend.;48+hours.+5+tracks.+Zero+entry+fee.;From+Code+to+Glory." alt="Typing animation" />
 </a>
